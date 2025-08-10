@@ -1,0 +1,195 @@
+{
+  "company": {
+    "name": "Sugrue Excavation Ltd",
+    "founded": 2003,
+    "specialization": "Wind Industry Contracting & Civil Engineering",
+    "location": {
+      "address": "Gortbee, Beaufort",
+      "city": "Killarney",
+      "county": "Co. Kerry",
+      "country": "Ireland"
+    },
+    "contact": {
+      "mobile": "087-2491422",
+      "office": "064-6644379",
+      "email": "JPSUGRUE@gmail.com"
+    }
+  },
+  "timeline": [
+    {
+      "year": 2003,
+      "title": "Основание компании",
+      "description": "Sugrue Excavation Ltd специализировалась на аренде техники",
+      "milestone": true
+    },
+    {
+      "year": 2004,
+      "title": "Переход к подрядным работам",
+      "description": "Расширение в область подрядных работ и гражданского строительства"
+    },
+    {
+      "year": 2006,
+      "title": "Вход в ветроэнергетику",
+      "description": "Определили ветроэнергетику как наиболее перспективное направление",
+      "milestone": true
+    },
+    {
+      "year": 2010,
+      "title": "Лидерство в отрасли",
+      "description": "Стали ведущим подрядчиком в ветроэнергетической отрасли Ирландии"
+    },
+    {
+      "year": 2025,
+      "title": "Современность",
+      "description": "Более 20 лет опыта в строительстве ветряных электростанций",
+      "milestone": true
+    }
+  ],
+  "capabilities": [
+    {
+      "id": "roads",
+      "title": "Строительство подъездных дорог и площадок",
+      "description": "Экспертиза в строительстве подъездных дорог и площадок для кранов в любых условиях",
+      "details": [
+        "Плавающие дороги в глубоких болотах",
+        "Подъездные дороги по крутым горным склонам",
+        "Большие площадки с выемкой/насыпью в твердых породах",
+        "Выдерживают краны весом 500-1000 тонн",
+        "Доступ для негабаритных грузов"
+      ],
+      "icon": "road"
+    },
+    {
+      "id": "trenching",
+      "title": "Прокладка кабельных траншей",
+      "description": "Опыт прокладки кабелей в сложных грунтовых условиях",
+      "details": [
+        "Работы в сложных грунтовых условиях",
+        "Пересечение водных путей и дорог",
+        "Высокое качество прокладки траншей",
+        "Безопасная и эффективная подача энергии",
+        "Экономичное подключение к энергосистеме"
+      ],
+      "icon": "cable"
+    },
+    {
+      "id": "maintenance",
+      "title": "Обслуживание дорог",
+      "description": "Комплексные контракты на обслуживание ветряных электростанций",
+      "details": [
+        "Обслуживание подъездных путей",
+        "Полная реконструкция дорог",
+        "Восстановление дорожного покрытия",
+        "Ремонт и обслуживание дренажа",
+        "Контроль защиты окружающей среды"
+      ],
+      "icon": "maintenance"
+    }
+  ],
+  "clients": [
+    "Mid Cork Electrical Ltd",
+    "L & M Keating",
+    "Balfour Beatty Ireland",
+    "Careys Building & Civil Engineering",
+    "William & Henry Alexandar (Civil Engineering) Ltd",
+    "Denis Moriarty Civil Engineering (DMKL)",
+    "B & R Wind"
+  ],
+  "projects": [
+    {
+      "name": "Cordal WF",
+      "location": "Co Kerry",
+      "type": "Wind Farm",
+      "status": "completed"
+    },
+    {
+      "name": "Grousemount WF",
+      "location": "Co Kerry",
+      "type": "Wind Farm",
+      "status": "completed"
+    },
+    {
+      "name": "Silahertane WF",
+      "location": "Co Kerry",
+      "type": "Wind Farm",
+      "status": "completed"
+    },
+    {
+      "name": "Kilgarvan WF",
+      "location": "Co Kerry",
+      "type": "Wind Farm",
+      "status": "completed"
+    },
+    {
+      "name": "Booltiagh WF",
+      "location": "Co Clare",
+      "type": "Wind Farm",
+      "status": "completed"
+    },
+    {
+      "name": "Garracummer WF",
+      "location": "Co Tipperary",
+      "type": "Wind Farm",
+      "status": "completed"
+    },
+    {
+      "name": "Knockawarriga WF",
+      "location": "Co Limerick",
+      "type": "Wind Farm",
+      "status": "completed"
+    }
+  ],
+  "equipment": [
+    {
+      "category": "Excavators",
+      "description": "3.5 – 50 Tons (all piped for hammers/attachments)",
+      "icon": "excavator"
+    },
+    {
+      "category": "Dump Trucks",
+      "description": "Articulated Dump Trucks 25-40 Tons",
+      "icon": "truck"
+    },
+    {
+      "category": "Rollers",
+      "description": "Heavy Roller/Light Roller",
+      "icon": "roller"
+    },
+    {
+      "category": "Site Dumpers",
+      "description": "6-10 Tons capacity",
+      "icon": "dumper"
+    },
+    {
+      "category": "Specialist Equipment",
+      "description": "Wide pad bog master excavators",
+      "icon": "specialist"
+    },
+    {
+      "category": "Transport",
+      "description": "Low Loader/Heavy Haulage, Tractors & Dump Trailers",
+      "icon": "transport"
+    },
+    {
+      "category": "Stone Cart",
+      "description": "Stone Cart",
+      "icon": "cart"
+    },
+    {
+      "category": "Rubber Duck Excavators",
+      "description": "Rubber Duck Excavators & Offset Excavators",
+      "icon": "rubber-duck"
+    },
+    {
+      "category": "Waste Collection",
+      "description": "Waste Collection Permit (31 LA Areas)",
+      "icon": "waste"
+    },
+    {
+      "category": "Tipper Trucks",
+      "description": "Fleet of 8-Wheel Tipper Trucks (Licensed Haulage Contractor)",
+      "icon": "tipper"
+    }
+  ]
+}
+
